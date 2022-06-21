@@ -1,0 +1,31 @@
+body {
+    background: pink;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.container {
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.links {
+    text-align: center;
+}
+
+.links a {
+    margin: 10px;
+}
+
+.croissant-img {
+    max-width: 100%;
+    display: block;
+    margin: 30px auto;
+    border-radius: 10px;
+}
